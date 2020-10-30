@@ -1,0 +1,1 @@
+A Codecademy project where I created a basic guide/design system for a website, to have a consistent reference of how a website should look or be built. 
